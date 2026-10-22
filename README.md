@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:labermudezs@unal.edu.co"><img src="https://img.shields.io/badge/Email-labermudezs%40unal.edu.co-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:lauranicole.bermudezsanta@gmail.com"><img src="https://img.shields.io/badge/Email-lauranicole.bermudezsanta%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/laura-nicole-bermudez-santa-213492287/"><img src="https://img.shields.io/badge/LinkedIn-Laura%20Nicole%20Berm%C3%BAdez-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/bermudez05"><img src="https://img.shields.io/badge/GitHub-bermudez05-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
@@ -14,12 +14,13 @@
 
 ## About me
 
-I'm a Computer Scientist from the **Universidad Nacional de Colombia** (B.Sc., 2025), currently pursuing a **Master's in Data Science** at the **Pontificia Universidad Javeriana Cali**. I like turning messy real-world data into something people can understand and act on: physiological signals, financial text, public mobility records, crop sensors.
+I'm a bilingual Computer Scientist from the **Universidad Nacional de Colombia** (B.Sc., 2025), currently pursuing a **Master's in Data Science** at the **Pontificia Universidad Javeriana Cali**. I work with Python, SQL and machine learning to build data pipelines, ETL processes and models. I like turning messy real-world data into something people can understand and act on: physiological signals, financial text, public mobility records, crop sensors.
 
 - 🎓 **Currently:** M.Sc. in Data Science at Pontificia Universidad Javeriana Cali
-- 🔬 **Working on:** a multimodal stress-detection pipeline from wearable physiological signals (WESAD)
+- 🔬 **Master's thesis (group project, in progress):** multimodal stress detection from wearable physiological signals (WESAD)
 - 🧠 **Interests:** machine learning, NLP, biosignal processing, dimensionality reduction, mathematical modelling, cryptography
-- 🌏 **International experience:** exchange semester in Korea, with a final NLP project on FinBERT for financial tweets
+- 🌏 **International experience:** exchange semester at Korea University (2025), with a final NLP project on FinBERT for financial tweets
+- 📜 **Certified:** Associate Data Scientist, DataCamp (2026)
 - 🤖 **Before code:** national champion (1st place, FLL *Animal Allies* 2015) and team captain at the FIRST LEGO League Open International in Houston (2016)
 
 ## Featured projects
@@ -47,25 +48,37 @@ I'm a Computer Scientist from the **Universidad Nacional de Colombia** (B.Sc., 2
 
 </details>
 
+## Experience
+
+- **Solution Engineer**, Infobip (Aug 2024 – Oct 2024): technical support for client demo implementations and ideas to streamline processes and improve customer experience
+- **Student Assistant**, IPARM, Universidad Nacional de Colombia (Mar 2024 – Jun 2024): improved the school's database and how it is used, working with faculty on improvements
+- **Undergraduate research thesis**, Universidad Nacional de Colombia (Nov 2024 – Jun 2025): [classical vs. metric multidimensional scaling](https://github.com/bermudez05/MDS_clasico) applied to geospatial mapping, NLP, image classification and morphological analysis
+
 ## Education
 
-- 🎓 **M.Sc. in Data Science**, Pontificia Universidad Javeriana Cali (in progress)
-- 🎓 **B.Sc. in Computer Science**, Universidad Nacional de Colombia, Bogotá (2025)
-- 🌏 **Exchange semester**, Korea University, Seoul
+- 🎓 **M.Sc. in Data Science**, Pontificia Universidad Javeriana Cali (2026 – present)
+- 🎓 **B.Sc. in Computer Science**, Universidad Nacional de Colombia, Bogotá (2020 – 2025)
+- 🌏 **Exchange student**, Korea University, Seoul (2025)
 
 ## Tech stack
 
-**Languages:** Python · JavaScript · SQL · Java
-**Data & ML:** NumPy · pandas · SciPy · scikit-learn · PyTorch · Hugging Face Transformers · NeuroKit2 · gensim · NLTK
-**Visualisation:** Matplotlib · Seaborn · Plotly
-**Web & databases:** React · Tailwind CSS · Django REST Framework · Express · MySQL
-**Tools:** Git · Jupyter · Google Colab · Anaconda
+- **Languages:** Python · JavaScript · SQL · Java
+- **Data & ML:** NumPy · pandas · SciPy · scikit-learn · PyTorch · Hugging Face Transformers · NeuroKit2 · gensim · NLTK
+- **Visualisation:** Matplotlib · Seaborn · Plotly
+- **Web & databases:** React · Tailwind CSS · Django REST Framework · Express · MySQL
+- **Data engineering:** ETL · data pipelines · REST APIs · webhooks · workflow design
+- **Tools:** Git · Jupyter · VS Code · Google Colab · Anaconda
 
 ## Recognition
 
 - 🥇 1st place nationally, FIRST LEGO League *Animal Allies* (2015). Represented Colombia at the FLL Open International, Houston (2016), with a recognition from the Meta governorate for team captaincy
 - 🥉 3rd place nationally, FIRST LEGO League *Into Orbit* (2018). Represented Colombia at the Open International Uruguay (2019), with a robot design award
 - 🎓 MinTIC *Misión TIC 2022*: programming fundamentals, OOP in Java, relational databases with MySQL
+- 📜 Associate Data Scientist certification, DataCamp (March 2026)
+
+## Languages
+
+🇪🇸 Spanish (native) · 🇬🇧 English (fluent, Cambridge English certificate) · 🇰🇷 Korean (beginner)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bermudez05&layout=compact&hide_border=true" alt="Top languages" height="150">
