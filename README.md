@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="mailto:labermudezs@unal.edu.co"><img src="https://img.shields.io/badge/Email-labermudezs%40unal.edu.co-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <!-- Add your LinkedIn URL: -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Laura%20Nicole%20Berm%C3%BAdez-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/laura-nicole-bermudez-santa-213492287/"><img src="https://img.shields.io/badge/LinkedIn-Laura%20Nicole%20Berm%C3%BAdez-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/bermudez05"><img src="https://img.shields.io/badge/GitHub-bermudez05-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
