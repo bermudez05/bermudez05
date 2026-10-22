@@ -50,6 +50,7 @@ I'm a bilingual Computer Scientist from the **Universidad Nacional de Colombia**
 
 ## Experience
 
+- **Freelance Power BI Consultant** (most recent): designing Power BI reports and dashboards that turn clients' data into business insights
 - **Solution Engineer**, Infobip (Aug 2024 – Oct 2024): technical support for client demo implementations and ideas to streamline processes and improve customer experience
 - **Student Assistant**, IPARM, Universidad Nacional de Colombia (Mar 2024 – Jun 2024): improved the school's database and how it is used, working with faculty on improvements
 - **Undergraduate research thesis**, Universidad Nacional de Colombia (Nov 2024 – Jun 2025): [classical vs. metric multidimensional scaling](https://github.com/bermudez05/MDS_clasico) applied to geospatial mapping, NLP, image classification and morphological analysis
@@ -64,7 +65,7 @@ I'm a bilingual Computer Scientist from the **Universidad Nacional de Colombia**
 
 - **Languages:** Python · JavaScript · SQL · Java
 - **Data & ML:** NumPy · pandas · SciPy · scikit-learn · PyTorch · Hugging Face Transformers · NeuroKit2 · gensim · NLTK
-- **Visualisation:** Matplotlib · Seaborn · Plotly
+- **Visualisation & BI:** Power BI · Matplotlib · Seaborn · Plotly
 - **Web & databases:** React · Tailwind CSS · Django REST Framework · Express · MySQL
 - **Data engineering:** ETL · data pipelines · REST APIs · webhooks · workflow design
 - **Tools:** Git · Jupyter · VS Code · Google Colab · Anaconda
