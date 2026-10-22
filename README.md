@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Laura Nicole Bermúdez 👋</h1>
 <p align="center">
-  <b>Computer Scientist · Data Science & Machine Learning</b><br>
-  Universidad Nacional de Colombia, Bogotá
+  <b>Computer Scientist · M.Sc. student in Data Science</b><br>
+  Pontificia Universidad Javeriana Cali · Universidad Nacional de Colombia alumna
 </p>
 
 <p align="center">
@@ -14,9 +14,10 @@
 
 ## About me
 
-I study Computer Science at the **Universidad Nacional de Colombia** with a strong mathematical focus. I like turning messy real-world data into something people can understand and act on: physiological signals, financial text, public mobility records, crop sensors.
+I'm a Computer Scientist from the **Universidad Nacional de Colombia** (B.Sc., 2025), currently pursuing a **Master's in Data Science** at the **Pontificia Universidad Javeriana Cali**. I like turning messy real-world data into something people can understand and act on: physiological signals, financial text, public mobility records, crop sensors.
 
-- 🔬 **Currently:** building a multimodal stress-detection pipeline from wearable physiological signals (WESAD) for my thesis
+- 🎓 **Currently:** M.Sc. in Data Science at Pontificia Universidad Javeriana Cali
+- 🔬 **Working on:** a multimodal stress-detection pipeline from wearable physiological signals (WESAD)
 - 🧠 **Interests:** machine learning, NLP, biosignal processing, dimensionality reduction, mathematical modelling, cryptography
 - 🌏 **International experience:** exchange semester in Korea, with a final NLP project on FinBERT for financial tweets
 - 🤖 **Before code:** national champion (1st place, FLL *Animal Allies* 2015) and team captain at the FIRST LEGO League Open International in Houston (2016)
@@ -45,6 +46,12 @@ I study Computer Science at the **Universidad Nacional de Colombia** with a stro
 - **[Game of Life](https://github.com/bermudez05/GameOfLife)**: Conway's cellular automaton in Processing (Python)
 
 </details>
+
+## Education
+
+- 🎓 **M.Sc. in Data Science**, Pontificia Universidad Javeriana Cali (in progress)
+- 🎓 **B.Sc. in Computer Science**, Universidad Nacional de Colombia, Bogotá (2025)
+- 🌏 **Exchange semester**, Korea University, Seoul
 
 ## Tech stack
 
